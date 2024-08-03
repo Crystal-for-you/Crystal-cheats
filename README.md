@@ -4,7 +4,7 @@
 
 ## 🚀 Installation
 
-Download the Crystal Cheats application from our releases page! Here: [![Download Release](https://img.shields.io/badge/download-release-blue.svg)](https://github.com/Crystal-for-you/Crystal-cheats/releases/tag/Crystal-Cheats-beta)
+Download the Crystal Cheats application from our releases page! Here: [![Download Release](https://img.shields.io/badge/download-release-blue.svg)](https://github.com/Crystal-for-you/Crystal-cheats/releases/tag/Crystal-Cheats-Beta)
 
 
 1. Extract the contents of the downloaded ZIP file to a folder of your choice.
